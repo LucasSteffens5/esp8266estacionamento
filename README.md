@@ -9,3 +9,5 @@ Para mandar o e-mail, o e-mail remetente deve configurar sua conta do Google ou 
 Indico criar um e-mail apenas para este projeto.
 
 Upei na esperança de ajudar alguém algum dia, é simples, porém pode ser util pra iniciantes.
+
+Mais detalhes nos slides.
