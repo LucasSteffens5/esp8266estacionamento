@@ -1,4 +1,4 @@
-# esp8266estacionamento
+# Estacionamento com Node MCU ESP8266
 Simula um estacionamento microcontrolado, onde uma cancela é aberta com uma tag RFID caso o UID dela esteja cadastrada.
 Um nome é associado a cada UID e um e-mail é enviado  através do protocolo SMTP, simulando uma cobrança  no cartão de credito.
 
